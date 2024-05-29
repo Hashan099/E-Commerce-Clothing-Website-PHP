@@ -1,10 +1,10 @@
 <?php
 
-$smtpHost = 'smtp.gmail.com'; 
-$smtpUsername = 'hashangunathilaka12345@gmail.com'; 
-$smtpPassword = 'bpmnwfdouokactqd'; 
-$smtpPort = 465; 
-$smtpSecure = 'ssl';
+$smtpHost = 'yout smtp host '; 
+$smtpUsername = 'your email '; 
+$smtpPassword = 'your smtp password or app password'; 
+$smtpPort = port; 
+$smtpSecure = 'ssl or tls';
 
 
 // Bypass SSL verification (for self-signed certificates)
